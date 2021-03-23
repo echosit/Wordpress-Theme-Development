@@ -2,6 +2,12 @@
 
 This repository is still a work in progress. This is theme development for a blog with WordPress and PHP.
 
+## Concepts Used
+
+- Wordpress Hooks and Methods
+- Wordpress Template Hierarchy
+- while loop
+
 ## Tools
 
 - Wordpress
