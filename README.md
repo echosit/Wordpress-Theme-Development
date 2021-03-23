@@ -1,4 +1,4 @@
-# CMS-Wordpress-PHP-Theme
+# Wordpress-Theme-Development
 
 This repository is still a work in progress. This is theme development for a blog with WordPress and PHP.
 
