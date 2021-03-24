@@ -4,7 +4,7 @@ This repository is still a work in progress. This is theme development for a blo
 
 ## Concepts Used
 
-- Wordpress Hooks and Methods
+- Wordpress Functions, Hooks, and Methods
 - Wordpress Template Hierarchy
 - while loop
 
