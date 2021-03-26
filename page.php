@@ -24,8 +24,7 @@ while(have_posts()) {
 <?php } ?>
 
     <aside id="sidebar">
-        <h3>Sidebar Heading</h3>
-        <p>Sidebar 1</p>
+        <?php dynamic_sidebar('main_sidebar') ?>
     </aside>
     </div>
 

@@ -4,22 +4,22 @@
                 <p>
                     <ul>
                         <li>
-                            <a href="index.html">Home</a>
+                            <a href="<?php echo site_url(''); ?>">Home</a>
                         </li>
                         <li>
-                            <a href="about.html">About</a>
+                            <a href="<?php echo site_url('/about'); ?>">About</a>
                         </li>
                         <li>
-                            <a href="#">Privacy Policy</a>
+                            <a href="<?php echo site_url('/privacy-policy'); ?>">Privacy Policy</a>
                         </li>
                         <li>
-                            <a href="blogslist.html">Blogs</a>
+                            <a href="<?php echo site_url('/blog'); ?>">Blogs</a>
                         </li>
                         <li>
-                            <a href="blogslist.html">Projects</a>
+                            <a href="<?php echo site_url('/projects'); ?>">Projects</a>
                         </li>
                         <li>
-                            <a href="#">Contact</a>
+                            <a href="<?php echo site_url('/contact'); ?>">Contact</a>
                         </li>
                     </ul>
                 </p>

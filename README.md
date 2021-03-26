@@ -1,6 +1,13 @@
 # Wordpress-Theme-Development
 
-This repository is still a work in progress. This is theme development for a blog with WordPress and PHP.
+This is a custom theme for a blog using WordPress and PHP.
+
+## Features
+
+- Search Bar for Project and Blog Posts
+- Responsive Web and Mobile Design
+- Home, About, Blog, Project, and Contact Pages
+- 404 Page, Contact Form, Comments Section
 
 ## Concepts Used
 
